@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmp97&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmp97" /> </p>
 
 - 🌱 I want to learn **Go, RabbitMQ and DDD**
-- 💬 Ask me about **PHP, Laravel and Javascript**
-- 📫 How to reach me **muhammadmp1997@gmail.com**
+- 💬 Ask me about **Back-end development, PHP, Laravel and Javascript**
+- 📫 Feel free to send an email to: **muhammadmp1997@gmail.com**
 
 <h3 align="left">Highlighted repositories:</h3>
 <ul>
