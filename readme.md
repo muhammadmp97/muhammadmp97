@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A back-end developer loves learning</h3>
+<p align="left">A lively engineer and a hopeful good reader with an adventurous spirit who is eager to read, think, and explore. His goal is to become a pragmatic, skilled, and value-creating engineer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmp97&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmp97" /> </p>
 
